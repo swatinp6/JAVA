@@ -1,7 +1,9 @@
+package FI;
+
 @FunctionalInterface
 interface DaoI{
     public abstract void login();
-    void logout();
+    //void logout();
 }
 class DaoImpl implements DaoI{
     public void login(){
