@@ -1,2 +1,5 @@
-package StreamAPIs;public class StreamEx {
+package StreamAPIs;
+
+public class StreamEx {
+
 }
